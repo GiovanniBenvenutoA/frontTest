@@ -14,4 +14,7 @@
       ejemplo:http://localhost:8080/api/indicatordate/cobre/2020-01-02
       reponse: {"key":"cobre","name":"Precio del Cobre, dólares por libra","unit":"dolar","date":1577923200,"value":2.81}
 3.- Test para ejecutar el test debe primeramente
+Ingresar a la raiz del proyecto y ubicarse en la carpeta java
+e ir a test luego ingresar a la carpeta com.integration.data y ejecutar el aplicativo con run test para ejecutar
+el test.
       
